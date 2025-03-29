@@ -82,7 +82,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## Contact & Support ✉️
-For any questions, reach out at **your.email@example.com** or open an issue on GitHub!
+For any questions, reach out at **ravi657676@gmail.com** or open an issue on GitHub!
 
 ---
 
