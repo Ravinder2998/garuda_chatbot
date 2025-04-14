@@ -1,4 +1,4 @@
-streamlit
-langchain_google_genai
-PyPDF2
-dotenv
+pip install streamlit
+pip install PyPDF2
+pip install langchain
+pip install langchain-google-genai
