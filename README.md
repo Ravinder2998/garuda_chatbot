@@ -1,11 +1,10 @@
-# Garuda - WhatsApp-Style AI Chatbot
+# Garuda -AI Chatbot
 
 Garuda is a mental health chatbot built using **LangChain**, **Google Gemini AI**, and **Streamlit**. It allows users to interact with the AI in a **WhatsApp-style chat interface**, with persistent conversation history. Additionally, users can upload **PDFs** to train the AI with external knowledge.
 
 ---
 
-## Features 🚀
-✅ **WhatsApp-style chat UI** with past conversations visible 📱  
+## Features 🚀  
 ✅ **Conversational memory** using `st.session_state.messages` 🧠  
 ✅ **Google Gemini AI integration** for intelligent responses 🤖  
 ✅ **PDF training support** to enhance AI knowledge 📂  
