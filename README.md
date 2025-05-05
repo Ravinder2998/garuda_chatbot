@@ -69,6 +69,8 @@ streamlit run app.py
 
 ![Screenshot 2025-05-06 010134](https://github.com/user-attachments/assets/75ecb84c-f5d4-4833-a6b5-bcebf5b96f00)
 
+![Screenshot 2025-05-06 010209](https://github.com/user-attachments/assets/00167fc6-2c1b-4513-aabf-5796daac932e)
+![Screenshot 2025-05-06 011047](https://github.com/user-attachments/assets/1e9b2939-1904-442f-9e0b-0b0e8a0a5fc4)
 
 ## 📄 License
 
