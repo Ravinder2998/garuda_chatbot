@@ -67,7 +67,8 @@ streamlit run app.py
 
 ## 📸 Screenshot
 
-> *(Optional: Add a screenshot of your chatbot interface here)*
+![Screenshot 2025-05-06 010134](https://github.com/user-attachments/assets/75ecb84c-f5d4-4833-a6b5-bcebf5b96f00)
+
 
 ## 📄 License
 
